@@ -1,2 +1,2 @@
-# Dsiplay the output
+# Display the output
 print ("New Pythin File")
