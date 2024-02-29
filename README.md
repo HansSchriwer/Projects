@@ -1,3 +1,3 @@
 # Hans Schriwer
 ## Editing the File.
-Is a markdown in this repository.
+This is the main rep. for HS.
